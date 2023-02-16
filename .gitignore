@@ -1,3 +1,4 @@
 .idea
 .venv
 handwritten_number_classification/data
+__pycache__/
